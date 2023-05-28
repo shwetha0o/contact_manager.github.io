@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact_manager.github.io/static/css/main.25a99345.css",
+    "main.js": "/contact_manager.github.io/static/js/main.8c3f84be.js",
+    "index.html": "/contact_manager.github.io/index.html",
+    "main.25a99345.css.map": "/contact_manager.github.io/static/css/main.25a99345.css.map",
+    "main.8c3f84be.js.map": "/contact_manager.github.io/static/js/main.8c3f84be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a99345.css",
+    "static/js/main.8c3f84be.js"
+  ]
+}
